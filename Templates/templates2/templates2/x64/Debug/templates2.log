@@ -1,0 +1,7 @@
+﻿  templates2.cpp
+C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\templates2\templates2.cpp(30,44): warning C4244: 'argument': conversion from 'double' to 'T1', possible loss of data
+C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\templates2\templates2.cpp(30,44): warning C4244:         with
+C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\templates2\templates2.cpp(30,44): warning C4244:         [
+C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\templates2\templates2.cpp(30,44): warning C4244:             T1=int
+C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\templates2\templates2.cpp(30,44): warning C4244:         ]
+  templates2.vcxproj -> C:\Users\KomPhone\Desktop\c++tanulas\Templates\templates2\x64\Debug\templates2.exe
