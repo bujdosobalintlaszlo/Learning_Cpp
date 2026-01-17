@@ -1,0 +1,15 @@
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\bin\Debug\net8.0\LengyelForma.exe
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\bin\Debug\net8.0\LengyelForma.deps.json
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\bin\Debug\net8.0\LengyelForma.runtimeconfig.json
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\bin\Debug\net8.0\LengyelForma.dll
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\bin\Debug\net8.0\LengyelForma.pdb
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.AssemblyInfoInputs.cache
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.AssemblyInfo.cs
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.csproj.CoreCompileInputs.cache
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.sourcelink.json
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.dll
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\refint\LengyelForma.dll
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.pdb
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\LengyelForma.genruntimeconfig.cache
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\LengyelForma\obj\Debug\net8.0\ref\LengyelForma.dll

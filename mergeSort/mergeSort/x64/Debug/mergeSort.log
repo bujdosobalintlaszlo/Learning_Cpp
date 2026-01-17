@@ -1,0 +1,3 @@
+﻿  mergeSort.cpp
+C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\mergeSort\mergeSort.cpp(44,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  mergeSort.vcxproj -> C:\Users\KomPhone\Desktop\egyetemiGh\AlgoritmusokEsAdatszerkezetek\Algok\cpp\mergeSort\x64\Debug\mergeSort.exe
