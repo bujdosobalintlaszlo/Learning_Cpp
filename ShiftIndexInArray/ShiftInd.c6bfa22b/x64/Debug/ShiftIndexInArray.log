@@ -1,0 +1,4 @@
+﻿  ShiftIndexInArray.cpp
+C:\Users\bbujd\Desktop\ShiftIndexInArray\ShiftIndexInArray.cpp(9,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bbujd\Desktop\ShiftIndexInArray\ShiftIndexInArray.cpp(17,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ShiftIndexInArray.vcxproj -> C:\Users\bbujd\Desktop\ShiftIndexInArray\x64\Debug\ShiftIndexInArray.exe
