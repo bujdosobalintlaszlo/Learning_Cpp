@@ -1,0 +1,6 @@
+﻿  Aknakereso.cpp
+C:\Users\KomPhone\Desktop\Aknakereso\Aknakereso\Aknakereso.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KomPhone\Desktop\Aknakereso\Aknakereso\Aknakereso.cpp(34,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KomPhone\Desktop\Aknakereso\Aknakereso\Aknakereso.cpp(47,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KomPhone\Desktop\Aknakereso\Aknakereso\Aknakereso.cpp(48,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Aknakereso.vcxproj -> C:\Users\KomPhone\Desktop\Aknakereso\Aknakereso\x64\Debug\Aknakereso.exe
